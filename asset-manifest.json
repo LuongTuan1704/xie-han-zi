@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/xie-han-zi/static/css/main.a5951b01.css",
-    "main.js": "/xie-han-zi/static/js/main.62339ee3.js",
-    "static/css/297.2c6f938b.chunk.css": "/xie-han-zi/static/css/297.2c6f938b.chunk.css",
-    "static/js/297.dc5ee409.chunk.js": "/xie-han-zi/static/js/297.dc5ee409.chunk.js",
+    "main.js": "/xie-han-zi/static/js/main.5c220289.js",
+    "static/css/297.e6e3963d.chunk.css": "/xie-han-zi/static/css/297.e6e3963d.chunk.css",
+    "static/js/297.6305ad56.chunk.js": "/xie-han-zi/static/js/297.6305ad56.chunk.js",
     "static/css/466.286b5a8b.chunk.css": "/xie-han-zi/static/css/466.286b5a8b.chunk.css",
     "static/js/466.dcf306c4.chunk.js": "/xie-han-zi/static/js/466.dcf306c4.chunk.js",
     "static/css/14.812de110.chunk.css": "/xie-han-zi/static/css/14.812de110.chunk.css",
@@ -16,9 +16,9 @@
     "static/js/864.f683422f.chunk.js": "/xie-han-zi/static/js/864.f683422f.chunk.js",
     "index.html": "/xie-han-zi/index.html",
     "main.a5951b01.css.map": "/xie-han-zi/static/css/main.a5951b01.css.map",
-    "main.62339ee3.js.map": "/xie-han-zi/static/js/main.62339ee3.js.map",
-    "297.2c6f938b.chunk.css.map": "/xie-han-zi/static/css/297.2c6f938b.chunk.css.map",
-    "297.dc5ee409.chunk.js.map": "/xie-han-zi/static/js/297.dc5ee409.chunk.js.map",
+    "main.5c220289.js.map": "/xie-han-zi/static/js/main.5c220289.js.map",
+    "297.e6e3963d.chunk.css.map": "/xie-han-zi/static/css/297.e6e3963d.chunk.css.map",
+    "297.6305ad56.chunk.js.map": "/xie-han-zi/static/js/297.6305ad56.chunk.js.map",
     "466.286b5a8b.chunk.css.map": "/xie-han-zi/static/css/466.286b5a8b.chunk.css.map",
     "466.dcf306c4.chunk.js.map": "/xie-han-zi/static/js/466.dcf306c4.chunk.js.map",
     "14.812de110.chunk.css.map": "/xie-han-zi/static/css/14.812de110.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.a5951b01.css",
-    "static/js/main.62339ee3.js"
+    "static/js/main.5c220289.js"
   ]
 }
