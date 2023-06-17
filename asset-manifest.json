@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/xie-han-zi/static/css/main.4aa25296.css",
-    "main.js": "/xie-han-zi/static/js/main.aed37ae1.js",
-    "static/css/183.f7974788.chunk.css": "/xie-han-zi/static/css/183.f7974788.chunk.css",
-    "static/js/183.c2013e1e.chunk.js": "/xie-han-zi/static/js/183.c2013e1e.chunk.js",
+    "main.js": "/xie-han-zi/static/js/main.4df5a1c0.js",
+    "static/css/211.51ed9934.chunk.css": "/xie-han-zi/static/css/211.51ed9934.chunk.css",
+    "static/js/211.96bd6806.chunk.js": "/xie-han-zi/static/js/211.96bd6806.chunk.js",
     "static/css/848.851e9dfa.chunk.css": "/xie-han-zi/static/css/848.851e9dfa.chunk.css",
     "static/js/848.c43c4425.chunk.js": "/xie-han-zi/static/js/848.c43c4425.chunk.js",
     "static/css/464.8ece3fc9.chunk.css": "/xie-han-zi/static/css/464.8ece3fc9.chunk.css",
@@ -13,11 +13,12 @@
     "static/css/608.32a58230.chunk.css": "/xie-han-zi/static/css/608.32a58230.chunk.css",
     "static/js/608.ac5de932.chunk.js": "/xie-han-zi/static/js/608.ac5de932.chunk.js",
     "static/js/793.249f6770.chunk.js": "/xie-han-zi/static/js/793.249f6770.chunk.js",
+    "static/js/766.33a702f3.chunk.js": "/xie-han-zi/static/js/766.33a702f3.chunk.js",
     "static/js/789.2e3d5123.chunk.js": "/xie-han-zi/static/js/789.2e3d5123.chunk.js",
     "index.html": "/xie-han-zi/index.html"
   },
   "entrypoints": [
     "static/css/main.4aa25296.css",
-    "static/js/main.aed37ae1.js"
+    "static/js/main.4df5a1c0.js"
   ]
 }
