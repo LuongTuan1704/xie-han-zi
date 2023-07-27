@@ -1,6 +1,6 @@
 {
-  "short_name": "xue zhong wen",
-  "name": "xue zhong wen app",
+  "short_name": "你好",
+  "name": "梁文俊",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +8,18 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "icebear.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "icebear.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
-  "display": "standalone",
+  "display": "short_name",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
