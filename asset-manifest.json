@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/xie-han-zi/static/css/main.836c19d8.css",
-    "main.js": "/xie-han-zi/static/js/main.3b4a2db4.js",
-    "static/css/506.396f23b2.chunk.css": "/xie-han-zi/static/css/506.396f23b2.chunk.css",
+    "main.js": "/xie-han-zi/static/js/main.cb682fcb.js",
+    "static/css/506.de6b8f0a.chunk.css": "/xie-han-zi/static/css/506.de6b8f0a.chunk.css",
     "static/js/506.4416b06c.chunk.js": "/xie-han-zi/static/js/506.4416b06c.chunk.js",
     "static/css/848.d67f00ba.chunk.css": "/xie-han-zi/static/css/848.d67f00ba.chunk.css",
     "static/js/848.00780542.chunk.js": "/xie-han-zi/static/js/848.00780542.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/413.e6788c28.chunk.js": "/xie-han-zi/static/js/413.e6788c28.chunk.js",
     "static/css/100.455c86ba.chunk.css": "/xie-han-zi/static/css/100.455c86ba.chunk.css",
     "static/js/100.485c8db4.chunk.js": "/xie-han-zi/static/js/100.485c8db4.chunk.js",
-    "static/js/766.f3e66352.chunk.js": "/xie-han-zi/static/js/766.f3e66352.chunk.js",
+    "static/js/766.e0e36dbc.chunk.js": "/xie-han-zi/static/js/766.e0e36dbc.chunk.js",
     "static/js/411.d0dbd6f9.chunk.js": "/xie-han-zi/static/js/411.d0dbd6f9.chunk.js",
     "static/js/856.dad58def.chunk.js": "/xie-han-zi/static/js/856.dad58def.chunk.js",
     "static/media/simkai.ttf": "/xie-han-zi/static/media/simkai.585f18a1067f675238d9.ttf",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.836c19d8.css",
-    "static/js/main.3b4a2db4.js"
+    "static/js/main.cb682fcb.js"
   ]
 }
